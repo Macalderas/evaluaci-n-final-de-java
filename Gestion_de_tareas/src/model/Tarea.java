@@ -12,7 +12,7 @@ public class Tarea {
         this.titulo = titulo;
         this.descripcion = descripcion;
         this.fechaLimite = fechaLimite;
-        this.estado = "pendiente"; // Estado por defecto
+        this.estado = "pendiente"; 
     }
 
     public Tarea(String estudiarParaElExamen, String estudiarMatemáticasYFísica) {
